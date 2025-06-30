@@ -1,7 +1,7 @@
 <h1 align="center">💹 Stock Market Prediction using LSTM & ML Models 📈</h1>
 
 <p align="center">
-  <img src="Stock market.jpeg" alt="Stock Market Prediction" />
+  <img src="stockmarket.png" alt="Stock Market Prediction" />
 </p>
 
 <p align="center">
